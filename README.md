@@ -1,0 +1,2 @@
+# AINotes
+personal learning notes
